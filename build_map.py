@@ -36,6 +36,7 @@ BRAND_COLORS = {
     "Djuce":             "#6D4C41",
     "Veranda":           "#9C27B0",
     "Little Sun":        "#FBC02D",
+    "Other LA Spots":    "#455A64",
 }
 DEFAULT_COLOR = "#37474F"
 
