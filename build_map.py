@@ -37,6 +37,7 @@ BRAND_COLORS = {
     "Veranda":           "#9C27B0",
     "Little Sun":        "#FBC02D",
     "Other LA Spots":    "#455A64",
+    "Maison Maxine":     "#FF1493",
 }
 DEFAULT_COLOR = "#37474F"
 
