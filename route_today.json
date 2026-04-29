@@ -1,0 +1,411 @@
+{
+  "home": [
+    34.09,
+    -118.273
+  ],
+  "stops": [
+    {
+      "order": 1,
+      "name": "Botanica Resturant & Market",
+      "address": "1620 Silver Lake Blvd, Los Angeles, CA 90026",
+      "lat": 34.0885,
+      "lon": -118.2689,
+      "brands": [
+        "Anytime Spritz",
+        "Jumbo Time"
+      ]
+    },
+    {
+      "order": 2,
+      "name": "Cafe Stella",
+      "address": "Cafe Stella, 3932, West Sunset Boulevard, Sunset Junction, Silver Lake",
+      "lat": 34.0922,
+      "lon": -118.2804,
+      "brands": [
+        "Jumbo Time"
+      ]
+    },
+    {
+      "order": 3,
+      "name": "Fountain Liquor",
+      "address": "4711 Fountain Ave, Los Angeles, CA 90029",
+      "lat": 34.0957,
+      "lon": -118.2923,
+      "brands": [
+        "Anytime Spritz"
+      ]
+    },
+    {
+      "order": 4,
+      "name": "Sogo Roll Bar",
+      "address": "4634 Hollywood Blvd., Los Angeles, CA 90027",
+      "lat": 34.1,
+      "lon": -118.2903,
+      "brands": [
+        "Ysidro"
+      ]
+    },
+    {
+      "order": 5,
+      "name": "Lou Wine Shop",
+      "address": "Lou Wine Shop, Hillhurst Avenue, Los Feliz Neighborhood Council District, Los Feliz, Los Angeles",
+      "lat": 34.1058,
+      "lon": -118.2878,
+      "brands": [
+        "Jumbo Time"
+      ]
+    },
+    {
+      "order": 6,
+      "name": "The Liquor Fountain",
+      "address": "5203 Fountain Ave, Los Angeles, CA 90029",
+      "lat": 34.0955,
+      "lon": -118.3025,
+      "brands": [
+        "Anytime Spritz"
+      ]
+    },
+    {
+      "order": 7,
+      "name": "The Liquor Fountain",
+      "address": "The Liquor Fountain, Fountain Avenue, Little Armenia, East Hollywood, Hollywood",
+      "lat": 34.0955,
+      "lon": -118.3026,
+      "brands": [
+        "Veranda"
+      ]
+    },
+    {
+      "order": 8,
+      "name": "The Liquor Fountain",
+      "address": "5203 Fountain Ave Ste A, Los Angeles, CA 90029",
+      "lat": 34.0953,
+      "lon": -118.3025,
+      "brands": [
+        "Nomadica"
+      ]
+    },
+    {
+      "order": 9,
+      "name": "The Oaks Gourmet Market & Cafe",
+      "address": "1915 N Bronson Ave, Los Angeles, CA 90068",
+      "lat": 34.1055,
+      "lon": -118.3182,
+      "brands": [
+        "Anytime Spritz"
+      ]
+    },
+    {
+      "order": 10,
+      "name": "Total Wine - W. Hollywood #1141",
+      "address": "1130 N La Brea Ave West Hollywood, CA, 90038",
+      "lat": 34.0916,
+      "lon": -118.3432,
+      "brands": [
+        "Anytime Spritz"
+      ]
+    },
+    {
+      "order": 11,
+      "name": "Total Wine & More",
+      "address": "1130 N La Brea Ave, Los Angeles, CA 90038",
+      "lat": 34.0912,
+      "lon": -118.3439,
+      "brands": [
+        "Nomadica"
+      ]
+    },
+    {
+      "order": 12,
+      "name": "TOTAL WINE &amp; MORE",
+      "address": "1130 N LA BREA AVE, LOS ANGELES, CA 90038",
+      "lat": 34.0924,
+      "lon": -118.344,
+      "brands": [
+        "Yes Way Ros\u00e9"
+      ]
+    },
+    {
+      "order": 13,
+      "name": "Curated Wines",
+      "address": "353 North La Brea Ave, Los Angeles , CA 90036",
+      "lat": 34.0777,
+      "lon": -118.3442,
+      "brands": [
+        "Ysidro"
+      ]
+    },
+    {
+      "order": 14,
+      "name": "Helen's Wine (Fairfax)",
+      "address": "Helen's Wine Shop, North Fairfax Avenue, Fairfax, Los Angeles, Los Angeles County",
+      "lat": 34.0787,
+      "lon": -118.3613,
+      "brands": [
+        "Jumbo Time"
+      ]
+    },
+    {
+      "order": 15,
+      "name": "LE CHATEAU WINE &amp; SPIRITS",
+      "address": "6252 WILSHIRE BLVD, LOS ANGELES, CA 90048",
+      "lat": 34.0633,
+      "lon": -118.3651,
+      "brands": [
+        "Yes Way Ros\u00e9"
+      ]
+    },
+    {
+      "order": 16,
+      "name": "Cork Runner Wine and Spirits",
+      "address": "5956 W Olympic Blvd, Los Angeles, CA 90036",
+      "lat": 34.0577,
+      "lon": -118.3613,
+      "brands": [
+        "Nomadica"
+      ]
+    },
+    {
+      "order": 17,
+      "name": "Bottle Barn",
+      "address": "2642 Crenshaw Blvd, Los Angeles, CA 90016",
+      "lat": 34.0323,
+      "lon": -118.3353,
+      "brands": [
+        "Anytime Spritz"
+      ]
+    },
+    {
+      "order": 18,
+      "name": "Larchmont Village Wine and Cheese",
+      "address": "223 N Larchmont Blvd, Los Angeles, CA 90004",
+      "lat": 34.0754,
+      "lon": -118.3239,
+      "brands": [
+        "Anytime Spritz"
+      ]
+    },
+    {
+      "order": 19,
+      "name": "Open Market",
+      "address": "3339 Wilshire Boulevard, Los Angeles, CA 90010",
+      "lat": 34.0619,
+      "lon": -118.2955,
+      "brands": [
+        "Ysidro"
+      ]
+    },
+    {
+      "order": 20,
+      "name": "Bar Keeper",
+      "address": "Bar Keeper, 614, North Hoover Street, Virgil Village, Los Angeles",
+      "lat": 34.0821,
+      "lon": -118.2843,
+      "brands": [
+        "Veranda"
+      ]
+    },
+    {
+      "order": 21,
+      "name": "Bar Keeper",
+      "address": "614 N Hoover St, Los Angeles, CA 90004",
+      "lat": 34.0821,
+      "lon": -118.2842,
+      "brands": [
+        "Anytime Spritz"
+      ]
+    },
+    {
+      "order": 22,
+      "name": "Mikron Liquor",
+      "address": "631 Silver Lake Blvd, Los Angeles, CA 90026",
+      "lat": 34.0796,
+      "lon": -118.2782,
+      "brands": [
+        "Anytime Spritz"
+      ]
+    },
+    {
+      "order": 23,
+      "name": "Psychic Wines",
+      "address": "Psychic Wines, 2825, Bellevue Avenue, Historic Filipinotown, Westlake",
+      "lat": 34.0769,
+      "lon": -118.2755,
+      "brands": [
+        "Jumbo Time"
+      ]
+    },
+    {
+      "order": 24,
+      "name": "Sage Vegan Bistro (Echo Park)",
+      "address": "1700 Sunset Blvd, Los Angeles, CA 90026",
+      "lat": 34.0772,
+      "lon": -118.2586,
+      "brands": [
+        "Anytime Spritz"
+      ]
+    },
+    {
+      "order": 25,
+      "name": "Dada Market",
+      "address": "1606 Sunset Blvd, Los Angeles, CA 90026",
+      "lat": 34.0768,
+      "lon": -118.2576,
+      "brands": [
+        "Nomadica"
+      ]
+    },
+    {
+      "order": 26,
+      "name": "Silverlake Wine",
+      "address": "2395 Glendale Boulevard, Los Angeles, CA",
+      "lat": 34.1,
+      "lon": -118.2596,
+      "brands": [
+        "Ysidro"
+      ]
+    },
+    {
+      "order": 27,
+      "name": "Wine + Eggs",
+      "address": "3129 1/2 Glendale Blvd, Los Angeles, CA 90039",
+      "lat": 34.1167,
+      "lon": -118.2626,
+      "brands": [
+        "Little Sun"
+      ]
+    },
+    {
+      "order": 28,
+      "name": "Wine + Eggs",
+      "address": "3129 1/2 Glendale Blvd, Los Angeles, CA 90039",
+      "lat": 34.1168,
+      "lon": -118.2622,
+      "brands": [
+        "Ysidro"
+      ]
+    },
+    {
+      "order": 29,
+      "name": "Bills Liquor - CA",
+      "address": "3150 Glendale Blvd, Los Angeles, CA 90039",
+      "lat": 34.1169,
+      "lon": -118.2616,
+      "brands": [
+        "Anytime Spritz"
+      ]
+    },
+    {
+      "order": 30,
+      "name": "Total Wine & More",
+      "address": "221 N Glendale Ave, Glendale, CA 91206",
+      "lat": 34.1486,
+      "lon": -118.2464,
+      "brands": [
+        "Nomadica"
+      ]
+    },
+    {
+      "order": 31,
+      "name": "TOTAL WINE &amp; MORE",
+      "address": "221 N GLENDALE AVE, GLENDALE, CA 91206",
+      "lat": 34.1495,
+      "lon": -118.246,
+      "brands": [
+        "Yes Way Ros\u00e9"
+      ]
+    },
+    {
+      "order": 32,
+      "name": "EAGLE ROCK MARKET &amp; LIQUOR",
+      "address": "4729 EAGLE ROCK BLVD, LOS ANGELES, CA 90041",
+      "lat": 34.1313,
+      "lon": -118.2165,
+      "brands": [
+        "Yes Way Ros\u00e9"
+      ]
+    },
+    {
+      "order": 33,
+      "name": "Highland Park Wine",
+      "address": "Highland Park Wine, North Figueroa Street, Highland Park, Los Angeles, Los Angeles County",
+      "lat": 34.1101,
+      "lon": -118.1913,
+      "brands": [
+        "Djuce"
+      ]
+    },
+    {
+      "order": 34,
+      "name": "S &amp; J LIQUOR",
+      "address": "925 CYPRESS AVE, LOS ANGELES, CA 90065",
+      "lat": 34.0931,
+      "lon": -118.2251,
+      "brands": [
+        "Yes Way Ros\u00e9"
+      ]
+    },
+    {
+      "order": 35,
+      "name": "The Heights Deli & Bottle Shop",
+      "address": "2927 North Broadway, Los Angeles, CA 90031",
+      "lat": 34.0739,
+      "lon": -118.2107,
+      "brands": [
+        "Ysidro"
+      ]
+    },
+    {
+      "order": 36,
+      "name": "Buzz Wine & Beer Shop",
+      "address": "Buzz Wine Beer Shop, West 5th Street, Gallery Row, Historic Core, Downtown",
+      "lat": 34.0474,
+      "lon": -118.2494,
+      "brands": [
+        "Jumbo Time"
+      ]
+    },
+    {
+      "order": 37,
+      "name": "JASONS WINE &amp; SPIRITS",
+      "address": "828 S MAIN ST, LOS ANGELES, CA 90014",
+      "lat": 34.0416,
+      "lon": -118.2547,
+      "brands": [
+        "Yes Way Ros\u00e9"
+      ]
+    },
+    {
+      "order": 38,
+      "name": "SUPER SALUD LIQUOR &amp; MARKET",
+      "address": "625 N MEDNIK AVE, LOS ANGELES, CA 90022",
+      "lat": 34.0437,
+      "lon": -118.162,
+      "brands": [
+        "Yes Way Ros\u00e9"
+      ]
+    },
+    {
+      "order": 39,
+      "name": "Olive Wine and Liquor",
+      "address": "3117 W Olive Ave, Burbank, CA 91505",
+      "lat": 34.1562,
+      "lon": -118.3352,
+      "brands": [
+        "Veranda",
+        "Ysidro"
+      ]
+    },
+    {
+      "order": 40,
+      "name": "Fancy Free Liquor",
+      "address": "2001 W Burbank Blvd, Burbank, CA 91506",
+      "lat": 34.1808,
+      "lon": -118.3328,
+      "brands": [
+        "Anytime Spritz",
+        "Veranda"
+      ]
+    }
+  ]
+}
