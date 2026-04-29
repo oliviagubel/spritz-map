@@ -67,7 +67,7 @@ STOCKIST_BRANDS = [
 
 # Substring blocklist applied across every importer (case-insensitive).
 # Add a name fragment here to permanently exclude a chain.
-EXCLUDE_NAME_SUBSTRINGS = ["whole foods", "target", "7-eleven", "7 eleven", "7eleven", "seven eleven"]
+EXCLUDE_NAME_SUBSTRINGS = ["whole foods", "target", "total wine", "7-eleven", "7 eleven", "7eleven", "seven eleven"]
 
 
 def is_excluded(name):
